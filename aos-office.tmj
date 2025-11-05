@@ -263,7 +263,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":14,
-         "name":"silent",
+         "name":"silent-zone",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -520,19 +520,19 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
+                 "id":2,
                  "properties":[
                         {
-                         "name":"silent",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
                 }, 
                 {
-                 "id":2,
+                 "id":3,
                  "properties":[
                         {
-                         "name":"collides",
+                         "name":"silent",
                          "type":"bool",
                          "value":true
                         }]
