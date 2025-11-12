@@ -43,7 +43,7 @@
   <image source="tilesets/WA_User_Interface.png" width="416" height="672"/>
  </tileset>
  <tileset firstgid="2854" name="WA_Decoration" tilewidth="32" tileheight="32" tilecount="96" columns="12">
-  <image source="../../Downloads/map-starter-kit-master/tilesets/WA_Decoration.png" width="384" height="256"/>
+  <image source="tilesets/WA_Decoration.png" width="384" height="256"/>
  </tileset>
  <layer id="1" name="start" width="40" height="30">
   <data encoding="csv">
