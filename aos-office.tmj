@@ -712,7 +712,7 @@
         {
          "columns":12,
          "firstgid":2854,
-         "image":"..\/..\/Downloads\/map-starter-kit-master\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
